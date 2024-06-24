@@ -5,6 +5,12 @@ export default defineConfig({
   integrations: [
     starlight({
       title: 'Applied AI for Everybody',
+      customCss: [
+        // Uncomment one of these at a time to test each style
+        // './src/styles/tech-harmony.css',
+        // './src/styles/creative-ai-canvas.css',
+        // './src/styles/accessible-innovation.css',
+      ],
       social: {
         github: 'https://github.com/withastro/starlight',
       },
