@@ -3,8 +3,6 @@ title: Introduction to AI Tool Testing
 description: An overview of why testing AI tools is crucial for creative professionals.
 ---
 
-import { Aside } from '@astrojs/starlight/components';
-
 # Chapter 1: Introduction to AI Tool Testing
 
 Imagine you're a songwriter named Alex. You've just heard about an amazing new AI tool that claims to help with writing lyrics. Excited, you dive in, only to find that the songs it generates sound nothing like your style. They're generic, filled with clichés, and lack the unique flair that makes your music special. Disappointed, you wonder: "Is this AI just not good, or am I not using it right?"
@@ -51,17 +49,3 @@ Testing AI tools isn't about complex algorithms or technical jargon. It's a syst
 By the end of this book, you'll have a personalized framework for testing any AI tool that comes your way, ensuring you can confidently integrate AI into your creative process without losing your unique artistic voice.
 
 Remember, the goal isn't to become an AI expert, but to become an expert in choosing and using AI tools that enhance your creativity. Let's get started!
-
-
-<Aside title="Deep Dive: Types of AI Models">
-
-There are several types of AI models you might encounter:
-
-1. **Supervised Learning Models**: These learn from labeled data.
-2. **Unsupervised Learning Models**: These find patterns in unlabeled data.
-3. **Reinforcement Learning Models**: These learn through trial and error.
-4. **Generative Models**: These create new content based on training data.
-
-Understanding the type of model you're working with can help you better evaluate its performance and limitations.
-
-</Aside>
