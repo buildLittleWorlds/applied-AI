@@ -6,10 +6,7 @@ export default defineConfig({
     starlight({
       title: 'Applied AI for Everybody',
       customCss: [
-        // Uncomment one of these at a time to test each style
-        // './src/styles/tech-harmony.css',
-        // './src/styles/creative-ai-canvas.css',
-        // './src/styles/accessible-innovation.css',
+       './src/styles/custom.css',
       ],
       social: {
         github: 'https://github.com/withastro/starlight',
