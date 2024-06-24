@@ -26,12 +26,12 @@ Your evaluation criteria should directly relate to your goals and the specific t
    - Adherence to specified style (e.g., indie rock)
    - Proper use of literary devices (e.g., metaphors, internal rhymes)
 
-2. Melody Generation
-   - Catchiness of the melody
-   - Fit with specified genre
-   - Harmonic complexity
-   - Rhythmic interest
-   - Potential for development into a full song
+2. World-Building
+- Originality of the concept
+- Internal consistency of the world
+- Potential for inspiring multiple song ideas
+- Emotional resonance of the setting
+- Relevance to intended themes or messages
 
 3. Album Art Design
    - Visual appeal
@@ -69,10 +69,10 @@ While it's tempting to try to quantify everything, remember that many aspects of
    - Emotional impact: 1 (Flat) to 5 (Deeply moving)
 
 2. Yes/No Checklist: For criteria that are either met or not
-   Example for Melody Generation:
-   - Stays in specified key: Yes/No
-   - Includes a memorable hook: Yes/No
-   - Fits within given tempo range: Yes/No
+Example for World-Building:
+- Establishes a unique societal structure: Yes/No
+- Includes a central conflict or tension: Yes/No
+- Incorporates sensory details of the environment: Yes/No
 
 3. Percentage-Based Scoring: For criteria where you can count occurrences
    Example for Lyric Sentiment Analysis:
@@ -96,7 +96,7 @@ While scoring systems are useful, they shouldn't replace thoughtful qualitative 
 Quantitative:
 - Use scoring systems as described above
 - Count specific elements (e.g., number of unique rhymes in lyrics)
-- Track time spent on tasks (e.g., how long it takes to generate a usable melody)
+- Track time spent on tasks (e.g., how long it takes to generate a world-building detail for a character in a song)
 
 Qualitative:
 - Written notes on overall impressions
@@ -128,7 +128,7 @@ To make your evaluations more meaningful, it's helpful to set benchmarks or thre
    Example: For lyric writing, an average score of at least 3/5 across all criteria
 
 2. Comparison to Human Baseline: Compare AI performance to what Alex could do in a similar timeframe
-   Example: For melody generation, can the AI produce 3 usable melody ideas in the time it takes Alex to create 1?
+   Example: For world-building, can the AI produce 3 usable scene ideas for a speaker in a song in the time it takes Alex to create 1?
 
 3. Improvement Over Time: Track how AI performance changes with each update or over time
    Example: For sentiment analysis, aim for a 5% increase in accuracy each quarter

@@ -17,7 +17,7 @@ Before diving into analysis, Alex needs to ensure all test results are properly 
    - AI tool used
    - Quantitative scores
    - Qualitative notes
-3. Group results by testing area (e.g., lyric writing, melody generation)
+3. Group results by testing area (e.g., lyric writing, world-building)
 4. Sort results by date to track changes over time
 
 Exercise: Data Organization
@@ -64,7 +64,7 @@ To get a comprehensive view, Alex needs to compare results across various scenar
    How does the lyric writing AI perform on love songs versus political anthems?
 
 2. Different Tools, Same Task:
-   Compare how various melody generation tools perform on creating a catchy chorus.
+Compare how various world-building tools perform on creating a dystopian future setting.
 
 3. Tool vs. Human Baseline:
    How do AI-generated lyrics compare to Alex's own first drafts in terms of quality and time taken?
@@ -135,7 +135,7 @@ The final step is turning these insights into actionable steps for Alex's creati
 Example Action Plan:
 1. Use Tool A for rapid lyric idea generation at the start of the songwriting process.
 2. Focus on enhancing emotional impact when editing AI-generated lyrics.
-3. Experiment with using AI melody generation for chorus ideas, but not verses.
+3. Experiment with using AI world-building for overarching album concepts, but develop individual song narratives manually.
 4. Refine prompts to include more specific emotional cues for better results.
 5. Investigate options for fine-tuning Tool B on Alex's own lyrical style.
 

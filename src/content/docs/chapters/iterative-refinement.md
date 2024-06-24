@@ -41,8 +41,8 @@ Now, Alex can start making targeted improvements. Here are some examples of how 
    Refinement: Add new test cases specifically for joyful, melancholic, and angry lyrics.
 
 2. Prompt Engineering:
-   Initial Observation: Prompts for melody generation often resulted in overly complex outputs.
-   Refinement: Modify prompts to specify "simple, catchy melodies with no more than 5 unique notes."
+   Initial Observation: Prompts for world-building details generation often resulted in highly vague outputs.
+   Refinement: Modify prompts to specify “highly specific details from the world of the song speaker"
 
 3. Dataset Expansion:
    Initial Observation: The test dataset lacked examples of recent indie rock trends.

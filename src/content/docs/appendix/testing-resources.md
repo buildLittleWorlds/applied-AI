@@ -28,26 +28,25 @@ Testing Schedule:
 - Run all test cases weekly on primary AI lyric generator
 - Monthly comparison test with two alternative AI lyric tools
 
-### 2. Melody Generation Testing Plan
-
-Objective: Assess AI tool's capability to create memorable and genre-appropriate melodies.
+### 2. World-Building for Songwriting Testing Plan
+Objective: Assess AI tool's capability to create detailed and inspiring fictional worlds for songwriting.
 
 Test Cases:
-a) Compose a 4-bar hook for a pop song in C major
-b) Generate an 8-bar verse melody for an indie rock song in A minor
-c) Create a 16-bar jazz melody with specified chord progression
-d) Develop a melodic motif for an electronic dance track
+a) Develop a post-apocalyptic setting for a series of songs about survival
+b) Create a magical realism world blending everyday life with fantastical elements
+c) Design a historical fiction setting with alternate history elements
+d) Generate a futuristic utopia/dystopia as a backdrop for social commentary songs
 
 Evaluation Criteria:
-- Catchiness (1-5)
-- Genre appropriateness (1-5)
-- Harmonic complexity (1-5)
-- Rhythmic interest (1-5)
-- Potential for development (1-5)
+- Originality of concept (1-5)
+- Internal consistency (1-5)
+- Emotional resonance (1-5)
+- Potential for multiple song ideas (1-5)
+- Relevance to specified themes (1-5)
 
 Testing Schedule:
 - Run two test cases weekly, rotating through all cases monthly
-- Quarterly deep-dive testing session with extended variations
+- Quarterly deep-dive testing session with extended world-building exercises
 
 ### 3. Album Artwork Generation Testing Plan
 

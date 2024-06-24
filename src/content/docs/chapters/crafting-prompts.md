@@ -37,17 +37,12 @@ Using a consistent format for your prompts can help you compare results across d
 4. Constraints: [Any limitations or specific requirements]
 5. Length/Format: [The desired length or format of the output]
 
-Example: Melody Generation Prompt
-
-Task: Compose a melody
-Style/Genre: Indie rock, similar to The Strokes
-Content: Include a catchy hook in the first four bars
-Constraints: Use only notes from the C major scale
-Length/Format: 16 bars, with a tempo of 120 BPM
-
-Exercise: Create a Prompt Format
-- Develop a prompt format that works for your specific needs
-- Write three prompts using this format for different test cases
+Example: World-Building Prompt
+Task: Create a fictional setting
+Style/Genre: Dystopian future for a concept album
+Content: Include a unique form of government and a central conflict
+Constraints: The world should have clear connections to current social issues
+Length/Format: 300-word description outlining key aspects of the world
 
 ## Using Examples and References
 
@@ -68,8 +63,8 @@ Exercise: Add References
 Even with the best intentions, it's easy to fall into some common traps when designing prompts. Here are a few to watch out for:
 
 1. Overloading: Trying to ask for too much in one prompt
-   Bad: "Write lyrics, compose a melody, and design album art for a song about love and loss in the style of indie rock with influences from folk and electronic music."
-   Better: Break this into separate prompts for lyrics, melody, and album art.
+   Bad: "Write lyrics, brainstorm world-building character ideas, and design album art for a song about love and loss in the style of indie rock with influences from folk and electronic music."
+   Better: Break this into separate prompts for lyrics, world-building, and album art.
 
 2. Ambiguity: Using terms that could be interpreted in multiple ways
    Bad: "Create a cool riff for a song."

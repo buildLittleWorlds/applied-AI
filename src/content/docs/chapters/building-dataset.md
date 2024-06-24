@@ -9,7 +9,7 @@ Alex has designed test cases and learned how to craft effective prompts. Now, it
 
 ## Understanding the Importance of a Test Dataset
 
-A test dataset is a collection of materials you'll use repeatedly to evaluate different AI tools or the same tool over time. For Alex, this might include song lyrics, melody ideas, and album art concepts. Having a consistent dataset allows for more accurate comparisons and helps track improvements in AI capabilities.
+A test dataset is a collection of materials you'll use repeatedly to evaluate different AI tools or the same tool over time. For Alex, this might include song lyrics, world-building ideas, and album art concepts. Having a consistent dataset allows for more accurate comparisons and helps track improvements in AI capabilities.
 
 ## Collecting Relevant Examples and Materials
 
@@ -21,10 +21,10 @@ Let's look at how Alex might collect materials for each of their main testing ar
    - 3 unfinished song ideas (perhaps just a chorus or verse)
    - List of 20 common themes in Alex's songwriting
 
-2. Melody Generation
-   - 10 MIDI files of melodies from popular indie rock songs
-   - 5 of Alex's own melody ideas (recorded or notated)
-   - List of 10 chord progressions Alex frequently uses
+2. World-Building
+- 10 detailed world descriptions from popular concept albums or song cycles
+- 5 of Alex's own world-building attempts for previous songs
+- List of 20 common themes in world-building for songwriting
 
 3. Album Art Design
    - 15 album covers Alex admires, spanning different styles
@@ -73,7 +73,7 @@ A well-organized dataset makes testing much easier. Here's a simple organization
 
 1. Main Folders for Each Testing Area:
    - Lyric Writing
-   - Melody Generation
+   - World-building Ideas
    - Album Art Design
    - Music Trend Analysis
    - Lyric Sentiment Analysis
@@ -115,7 +115,7 @@ Exercise: Organize Your Dataset
 
 Not all data is good data. Here are some tips for maintaining a high-quality dataset:
 
-1. Accuracy: Ensure lyrics, melodies, and other materials are correctly transcribed or recorded
+1. Accuracy: Ensure lyrics, world-building details, and other materials are correctly transcribed or recorded
 2. Relevance: Regularly review your dataset and remove outdated or irrelevant materials
 3. Permissions: Make sure you have the right to use any copyrighted materials in your dataset
 4. Versioning: Keep track of when items were added to your dataset and consider noting why they were included

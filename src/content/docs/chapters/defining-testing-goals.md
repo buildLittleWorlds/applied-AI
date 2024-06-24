@@ -12,7 +12,7 @@ Remember Alex, our songwriter? They're excited about using AI tools but feeling 
 The first step in defining your testing goals is to clearly identify what you need AI to do for you. Let's break down Alex's needs:
 
 1. **Lyric Writing**: Alex wants help generating creative and unique lyrics that match their indie rock style.
-2. **Melody and Chord Progression Generation**: They're looking for tools to inspire new musical ideas.
+2. **World-Building for Song Writing**: Alex wants to learn fundamental world-building techniques for thinking about writing songs.
 3. **Visual Art Creation**: Alex needs help designing album covers, logos, and social media thumbnails.
 4. **Music Trend Analysis**: They want to understand what makes songs popular in their genre.
 5. **Lyric Sentiment Analysis**: Alex is curious about analyzing the emotional tone of their lyrics.
@@ -28,8 +28,8 @@ Now that we have a list of needs, let's transform them into clear, testable obje
 1. Lyric Writing:
    - Objective: Generate 10 unique opening lines for songs that fit the indie rock genre and don't use common clichés.
 
-2. Melody Generation:
-   - Objective: Create 5 distinct melody ideas for a verse, each 8 bars long, in the key of G major, with a tempo of 120 BPM.
+2. World-Building:
+- Objective: Create 5 distinct world concepts for a concept album, each with a unique societal structure, environment, and central conflict.
 
 3. Album Cover Design:
    - Objective: Produce 3 album cover designs that incorporate themes of nature and technology, using a color palette of blues and greens.
@@ -51,8 +51,8 @@ For each objective, we need to define what success looks like. This helps us eva
 1. Lyric Writing:
    - Success: At least 7 out of 10 generated opening lines are unique (not found in existing songs), fit the indie rock style, and inspire Alex to continue writing.
 
-2. Melody Generation:
-   - Success: At least 3 out of 5 melodies are musically coherent, fit well with Alex's lyrical style, and inspire further songwriting.
+2. World-Building:
+- Success: At least 3 out of 5 world concepts are internally consistent, align with Alex's thematic interests, and inspire multiple song ideas.
 
 3. Album Cover Design:
    - Success: At least 1 out of 3 designs captures the desired theme, looks professional, and requires minimal editing to use.
@@ -72,7 +72,7 @@ Exercise: Define Your Success Criteria
 Not all goals are equally important. Alex decides to prioritize their goals:
 
 1. Lyric Writing (Highest Priority)
-2. Melody Generation
+2. World-Building for Song Writing
 3. Trend Analysis
 4. Album Cover Design
 5. Sentiment Analysis (Lowest Priority)

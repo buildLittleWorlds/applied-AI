@@ -29,18 +29,31 @@ Exercise: Brainstorm Scenarios
 
 It's important to include a range of difficulty in your test cases. This helps you understand the AI's capabilities and limitations.
 
-Example: Melody Generation Test Cases (Varying Difficulty)
+Example: World-Building Test Cases (Varying Difficulty)
 
 Easy:
-1. Create a simple 4-bar melody in C major with quarter notes only
+1. Create a simple backstory for a character in a love song
 
 Moderate:
-2. Generate an 8-bar melody in A minor using a mix of quarter and eighth notes
-3. Produce a 12-bar blues progression with a melodic line
+2. Develop a fictional town setting for a song about small-town life
+3. Design a futuristic society as a backdrop for a sci-fi themed song
 
 Challenging:
-4. Compose a 16-bar melody with key changes and syncopated rhythms
-5. Generate a countermelody to complement an existing chorus
+4. Craft an entire alternate history timeline as context for a concept album
+5. Create an interconnected universe spanning multiple songs, with consistent themes and motifs
+
+Example: World-Building Test Cases (Varying Difficulty)
+
+Easy:
+1. Create a simple backstory for a character in a love song
+
+Moderate:
+2. Develop a fictional town setting for a song about small-town life
+3. Design a futuristic society as a backdrop for a sci-fi themed song
+
+Challenging:
+4. Craft an entire alternate history timeline as context for a concept album
+5. Create an interconnected universe spanning multiple songs, with consistent themes and motifs
 
 Exercise: Categorize Difficulty
 - Take your list of scenarios and categorize them as Easy, Moderate, or Challenging.
