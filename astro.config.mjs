@@ -4,7 +4,7 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
   integrations: [
     starlight({
-      title: 'Applied AI for Everybody',
+      title: 'Applied AI for World-Builders',
       customCss: [
        './src/styles/custom.css',
       ],
